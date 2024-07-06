@@ -1,2 +1,2 @@
 # CONNECTTEL-Customer-Churn-Prediction-
-As a Data Scientist i was able to forecast customer churn using advanced analytics and machine learning techniques to help ConnectTel hold onto its customers, Lower customer attrition and increase customer loyalty, thereby maintaining a competitive advantage in the highly dynamic and competitive telecommunications industry.
+Customer churn forecast was developed for ConnectTel using leading-edge analytics and machine learning techniques. This would ensure it retained the customers and prevented their attrition while growing loyalty to maintain a leading edge in the fast-changing and competitive telecommunication industry.
