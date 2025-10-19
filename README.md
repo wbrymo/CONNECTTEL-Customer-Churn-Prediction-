@@ -161,23 +161,41 @@ Enabled ConnectTel to retain an estimated 10–15% more customers via proactive 
 Provided actionable insights that informed marketing, customer success, and billing strategy decisions.
 
 📁 Folder Structure
+
 ConnectTel-Customer-Churn-Prediction/
+
 │
+
 ├── data/
+
 │   └── connecttel_churn.csv
+
 │
+
 ├── notebooks/
+
 │   ├── EDA.ipynb
+
 │   ├── Model_Training.ipynb
+
 │
+
 ├── visuals/
+
 │   ├── churn_distribution.png
+
 │   ├── correlation_matrix.png
+
 │
+
 ├── models/
+
 │   └── churn_model.pkl
+
 │
+
 ├── README.md
+
 └── requirements.txt
 
 # Outcome Summary
